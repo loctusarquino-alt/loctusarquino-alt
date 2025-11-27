@@ -6,4 +6,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="left"> <img width="40" height="40" src="https://img.icons8.com/carbon-copy/100/FFFFFF/kali-linux.png" alt="kali-linux"/> </a> </p>
